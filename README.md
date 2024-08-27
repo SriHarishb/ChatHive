@@ -5,7 +5,7 @@ ChatHive is a WhatsApp clone built using Flutter. It features a dark theme with 
 
 ## Screenshot
 
-![alt text](chathive-1.jpeg)
+![chathive](https://github.com/user-attachments/assets/fd9343b5-1a86-4ab1-bfc1-231e4536b90b)
 
 ## Getting Started
 
