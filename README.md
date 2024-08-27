@@ -1,4 +1,4 @@
-# lhatsapp
+# ChatHive: A Whatsapp Clone
 
 A new Flutter project.
 
