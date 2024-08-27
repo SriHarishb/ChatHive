@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Steve",
+        "pfp": "assets/arj dp.png",
+        "rec": "Good morning! 🥰💖"
+    },
+    {
+        "name": "Ash",
+        "pfp": "assets/ash dp.jpg",
+        "rec": "hello world!"
+    },
+    {
+        "name": "Tom",
+        "pfp": "assets/default.jpg",
+        "rec": "Lets go watch a film!"
+    },
+    {
+        "name": "Sam",
+        "pfp": "assets/default.jpg",
+        "rec": "Come meet my puppy!"
+    },
+    {
+        "name": "Mohammad",
+        "pfp": "assets/saa dp.jpeg",
+        "rec": "im at school!"
+    },
+    {
+        "name": "game friend",
+        "pfp": "assets/sow dp.jpeg",
+        "rec": "Lets play Valo!"
+    },
+    {
+        "name": "Dustin",
+        "pfp": "assets/default.jpg",
+        "rec": "Lets go out on a adventure!"
+    },
+    {
+        "name": "you",
+        "pfp": "assets/default.jpg",
+        "rec": "hi"
+
+    },
+    {
+        "name": "not me",
+        "pfp": "assets/default.jpg",
+        "rec": "hello"
+
+    },
+    {
+        "name": "me",
+        "pfp": "assets/default.jpg",
+        "rec": "helo world"
+
+    },
+    {
+        "name": "Mike Johnson",
+        "pfp": "assets/default.jpg",
+        "rec": "bye"
+
+    }
+]
